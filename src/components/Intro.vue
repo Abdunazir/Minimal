@@ -1,24 +1,26 @@
 <template>
-  <div class="con">
-    <div class="intro">
-      <h1 class="intro_title">
-        Making brands stand out <br />
-        is our obsession
-      </h1>
-      <div class="rectangel"></div>
-      <p class="intro_des">Let us help your brand stand out.</p>
-      <!-- <img class="x" :src="x" alt="" srcset=""> -->
+  <div>
+    <div class="con">
+      <div class="intro">
+        <h1 class="intro_title">
+          Making brands stand out <br />
+          is our obsession
+        </h1>
+        <div class="rectangel"></div>
+        <p class="intro_des">Let us help your brand stand out.</p>
+        <!-- <img class="x" :src="x" alt="" srcset=""> -->
+      </div>
     </div>
-  </div>
-  <div class="con2">
-    <!-- <div class="x"></div> -->
-    <p class="con2_des">
-      Minimalist is a full-service digital creative agency located in Ontorio
-      Canada. We focus on design, consulting, technology, and photography. We’ve
-      been building unique digital products, platforms, and experiences for the
-      past 6 years. Let us help your company grow.
-    </p>
-    <button class="con2_btn">Get in Touch</button>
+    <div class="con2">
+      <!-- <div class="x"></div> -->
+      <p class="con2_des">
+        Minimalist is a full-service digital creative agency located in Ontorio
+        Canada. We focus on design, consulting, technology, and photography. We’ve
+        been building unique digital products, platforms, and experiences for the
+        past 6 years. Let us help your company grow.
+      </p>
+      <button class="con2_btn">Get in Touch</button>
+    </div>
   </div>
 </template>
 
