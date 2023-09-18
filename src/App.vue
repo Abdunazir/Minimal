@@ -1,12 +1,14 @@
 <template>
-  <Navbar />
-  <Intro />
-  <Process/>
-  <Project/>
-  <Team/>
-  <Comments/>
-  <Contact/>
-  <Send/>
+  <div>
+    <Navbar />
+    <Intro />
+    <Process/>
+    <Project/>
+    <Team/>
+    <Comments/>
+    <Contact/>
+    <Sendd/>
+  </div>
 </template>
 
 <script setup>
@@ -17,7 +19,7 @@ import Project from "./components/Projects.vue"
 import Team from "./components/Team.vue"
 import Comments from "./components/Comments.vue"
 import Contact from "./components/Contact.vue"
-import Send from "./components/Send.vue"
+import Sendd from "./components/Send.vue"
 </script>
 
 <style lang="scss">
