@@ -177,6 +177,7 @@ line-height: 22px; /* 146.667% */
 margin-top: 13px;
 }
 }
+
 @media (max-width: 447px) {
     section{
     padding: 55px 0 35px 0;
